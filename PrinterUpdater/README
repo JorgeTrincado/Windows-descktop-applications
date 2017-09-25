@@ -1,0 +1,1 @@
+this program allows to reflash some specific arduino based printers, but it should be easy to modify the avrdude command to use in other boards.
