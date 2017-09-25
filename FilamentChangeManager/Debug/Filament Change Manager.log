@@ -1,0 +1,8 @@
+﻿Compilación iniciada a las 26/04/2016 10:46:48.
+     1>Proyecto "c:\Users\jorge trincado\documents\visual studio 2013\Projects\Filament Change Manager\Filament Change Manager\Filament Change Manager.vcxproj" en el nodo 2 (Clean destinos).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppClean.targets(76,5): warning : Acceso denegado a la ruta de acceso 'c:\users\jorge trincado\documents\visual studio 2013\projects\filament change manager\debug\filament change manager.exe'.
+     1>Compilación del proyecto terminada "c:\Users\jorge trincado\documents\visual studio 2013\Projects\Filament Change Manager\Filament Change Manager\Filament Change Manager.vcxproj" (Clean destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:00.01
